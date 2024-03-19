@@ -1,3 +1,4 @@
+//https://www.codingninjas.com/studio/problems/1062679?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTabValue=PROBLEM
 public class Solution {
     public static int NthRoot(int n, int m) {
         // Write your code here.

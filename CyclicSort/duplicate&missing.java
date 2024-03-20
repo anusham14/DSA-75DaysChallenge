@@ -39,6 +39,8 @@ class Solve {
         for(int i=0;i<n;i++)
         {
             if(i+1 != arr[i]){
+                //duplicate is arr[i]
+                //missing is i+1
                     result[0] = arr[i];
                     result[1] = i+1;
             }
